@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "John Doe", "company": "Innovate Inc.", "email": "john.doe@innovate.com", "source": "Web Form", "score": 95, "status": "New" },
+  { "id": 2, "name": "Jane Smith", "company": "Tech Solutions", "email": "jane.s@techsol.com", "source": "Referral", "score": 88, "status": "Contacted" },
+  { "id": 3, "name": "Peter Jones", "company": "Data Corp", "email": "peter.j@datacorp.net", "source": "Cold Call", "score": 42, "status": "Unqualified" },
+  { "id": 4, "name": "Mary Garcia", "company": "Synergy Group", "email": "mary.g@synergy.org", "source": "Web Form", "score": 91, "status": "Qualified" },
+  { "id": 5, "name": "James Brown", "company": "Innovate Inc.", "email": "james.b@innovate.com", "source": "Partner", "score": 75, "status": "New" },
+  { "id": 6, "name": "Patricia Miller", "company": "Future Systems", "email": "pat.miller@future.sys", "source": "Referral", "score": 98, "status": "New" },
+  { "id": 7, "name": "Robert Wilson", "company": "Quantum Leap", "email": "rob.wilson@qleap.io", "source": "Web Form", "score": 65, "status": "Contacted" },
+  { "id": 8, "name": "Linda Martinez", "company": "Stellar Solutions", "email": "linda.m@stellar.sol", "source": "Trade Show", "score": 82, "status": "New" },
+  { "id": 9, "name": "Michael Anderson", "company": "Apex Industries", "email": "michael.a@apexind.com", "source": "Organic Search", "score": 78, "status": "Contacted" },
+  { "id": 10, "name": "Elizabeth Thomas", "company": "Visionary Ventures", "email": "liz.t@visionary.ven", "source": "Web Form", "score": 89, "status": "New" },
+  { "id": 11, "name": "David Hernandez", "company": "Tech Solutions", "email": "david.h@techsol.com", "source": "Referral", "score": 93, "status": "Qualified" },
+  { "id": 12, "name": "Jennifer Moore", "company": "Data Corp", "email": "jen.moore@datacorp.net", "source": "Cold Call", "score": 33, "status": "Unqualified" },
+  { "id": 13, "name": "Charles Taylor", "company": "Synergy Group", "email": "charles.t@synergy.org", "source": "Partner", "score": 71, "status": "Contacted" },
+  { "id": 14, "name": "Susan Jackson", "company": "Innovate Inc.", "email": "susan.j@innovate.com", "source": "Web Form", "score": 96, "status": "New" },
+  { "id": 15, "name": "Joseph White", "company": "Future Systems", "email": "joe.w@future.sys", "source": "Organic Search", "score": 81, "status": "New" }
+]
